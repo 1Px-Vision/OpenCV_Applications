@@ -10,4 +10,5 @@
 * Assignment 8: Panorama Assignment
 * Assignment 9: Assignment_Feature_based_Image_Alignment
 * Assignment 10: Smile Detection
+* Assignment 11: OCR on Invoice
   
