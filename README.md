@@ -6,5 +6,5 @@
 * Assignment 4: Structuring-Element-Assignment
 * Assignment 5: Coin-Detection-Assignment
 * Assignment 6: cvtColor-Assignment
-* 
+* Assignment 7: Autofocus-assignment
   
