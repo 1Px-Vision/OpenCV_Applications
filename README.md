@@ -9,4 +9,5 @@
 * Assignment 7: Autofocus-assignment
 * Assignment 8: Panorama Assignment
 * Assignment 9: Assignment_Feature_based_Image_Alignment
+* Assignment 10: Smile Detection
   
