@@ -7,4 +7,6 @@
 * Assignment 5: Coin-Detection-Assignment
 * Assignment 6: cvtColor-Assignment
 * Assignment 7: Autofocus-assignment
+* Assignment 8: Panorama Assignment
+* Assignment 9:
   
